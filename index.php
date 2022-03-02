@@ -23,7 +23,7 @@ if(isBitten())
  
 {
  
-echo "<h1>Charlie ate my lunch!</h1>";
+echo "<h4>Charlie ate my lunch!</h4>";
  
 }
  
@@ -31,7 +31,7 @@ else
  
 {
  
-echo "<h1>Charlie did not eat my lunch!</h1>";
+echo "<h4>Charlie did not eat my lunch!</h4>";
  
 }
  
